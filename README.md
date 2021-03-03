@@ -9,7 +9,7 @@ Collect some good-looking pictures in case you need it.
 ## Background
 ![](https://github.com/my-Sakura/collection-pictures/blob/main/background/starray-sky.jpeg)
 ## Contributiors
-This project exists thanks to all the people who contribute.[[my-Sakura](github.com/my-Sakura)].
+This project exists thanks to all the people who contribute.[[my-Sakura](https://github.com/my-Sakura/)].
 ## License
-MIT © my-Sakura
+MIT © [my-Sakura](https://github.com/my-Sakura/)
 
